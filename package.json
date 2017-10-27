@@ -4,8 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "jest --watch",
-    "precommit": "lint-staged"
+    "test": "jest --watch"
+    "prdecommit": "lint-staged"
   },
   "author": "",
   "license": "ISC",
@@ -16,9 +16,6 @@
     "prettier": "^1.7.4"
   },
   "lint-staged": {
-    "*.js": [
-      "prettier --write --single-quote",
-      "git add"
-    ]
+    "*.js": ["prettier --write --single-quote", "git add"]
   }
 }
