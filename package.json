@@ -1,0 +1,14 @@
+{
+  "name": "corejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
