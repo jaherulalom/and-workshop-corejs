@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Julian Assange",
+    "options": ["AVAILABLE_IMMEDIATELY", "FRESH_GRAD", "JUNIOR", "JAVASCRIPT", "AWS", "REACT", "JAVA"]
+  },
+  {
+    "name": "Kelly Diamond",
+    "options": ["FRESH_GRAD", "SENIOR", "JAVASCRIPT"]
+  },
+  {
+    "name": "Marc Brown",
+    "options": ["AVAILABLE_IMMEDIATELY", "JUNIOR", "PHP"]
+  },
+  {
+    "name": "Donald Obama",
+    "options": ["SENIOR", "AWS", "JAVA"]
+  },
+  {
+    "name": "Maria Bianchi",
+    "options": ["AVAILABLE_IMMEDIATELY", "FRESH_GRAD", "MID", "JAVASCRIPT", "PHP"]
+  },
+  {
+    "name": "Jordi Boggiano",
+    "options": ["SENIOR", "AWS", "PHP"]
+  },
+  {
+    "name": "Winnie the Pooh",
+    "options": ["FRESH_GRAD", "JAVASCRIPT"]
+  },
+  {
+    "name": "Franz",
+    "options": []
+  }
+]

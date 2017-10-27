@@ -16,9 +16,6 @@
     "prettier": "^1.7.4"
   },
   "lint-staged": {
-    "*.js": [
-      "prettier --write --single-quote",
-      "git add"
-    ]
+    "*.js": ["prettier --write --single-quote", "git add"]
   }
 }
